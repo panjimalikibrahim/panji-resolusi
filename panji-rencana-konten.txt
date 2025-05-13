@@ -4,6 +4,7 @@ RENCANA KONTEN PANJI
   * Framwork Javascript
     ^ Vue
     ^ react
+    ^ Anggular
 - Strucktur Data Dasar
 - PHP Framwork
   ^ Laravel
