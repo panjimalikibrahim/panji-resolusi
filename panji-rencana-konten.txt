@@ -1,5 +1,7 @@
 RENCANA KONTEN PANJI
 - Javascript
+  * ES6
+  * Framwork Javascript
 - PHP Framwork
 - Interview
 - Vlog
