@@ -2,7 +2,10 @@ RENCANA KONTEN PANJI
 - Javascript
   * ES6
   * Framwork Javascript
+    ^ anggular
+    ^ React
 - Strucktur Data Dasar
 - PHP Framwork
+  ^ Laravel
 - Interview
 - Vlog
