@@ -3,6 +3,7 @@ RENCANA KONTEN PANJI
   * ES6
   * Framwork Javascript
     ^ Vue
+    ^ React
 - Strucktur Data Dasar
 - PHP Framwork
   ^ Laravel
