@@ -6,6 +6,7 @@ RENCANA KONTEN PANJI
     ^ react
 - Strucktur Data Dasar
 - PHP Framwork
+  ^ Laravel
 - Interview
 - Vlog
 - Python
